@@ -59,7 +59,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ## 📧 Contact  
 For any inquiries or suggestions, reach out via:  
 - 📧 Email: omk3743@gmail.com
-- 🔗 Linkedin: [mr-sm25](https://www.linkedin.com/in/om-karmele/)
+- 🔗 Linkedin: [Om Karmele](https://www.linkedin.com/in/om-karmele/)
 
 ---
 
